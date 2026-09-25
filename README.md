@@ -1,8 +1,6 @@
-# Infosec-labs
-SOC Labs Academy
-# 🛡️ Princesslove — Cybersecurity & SOC Analyst Portfolio
+# 🛡️ Talia — Cybersecurity & SOC Analyst Portfolio
 
-> **Verified InfoSecLabs SOC Analyst** | **Level 10** (950 XP)  
+> **Verified InfoSecLabs SOC Analyst** | **Level 12** (1,150 XP)  
 > 🔗 **Live Verified Profile:** [infoseclabs.io/user/princesslove](https://infoseclabs.io/user/princesslove)
 
 ---
@@ -13,7 +11,7 @@ SOC Labs Academy
 | :--- | :--- | :--- |
 | **SIEM Alerts Triaged** | **25+** Real-time Alerts | ✅ Verified |
 | **Practical SOC Labs** | **10+** Lab Tasks Finished | ✅ Verified |
-| **Platform Competency** | **Level 10** (950 XP) | 🏆 Active |
+| **Platform Competency** | **Level 12** (1,150 XP) | 🏆 Active |
 | **Top Specializations** | `Phishing Triage`, `Malware PCAP Analysis`, `NIDS Intrusion Alerts` | 🎯 High Accuracy |
 
 ---
